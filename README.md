@@ -2,7 +2,7 @@
 I’m a **Software Engineer** with 3+ years of experience building scalable, user-focused systems across **fintech, edtech, and government platforms**. I love crafting clean, efficient, and intuitive digital experiences that make a real impact.  
 
 💻 **What I do best:**  
-- Build responsive and accessible web applications with **TypeScript, React, Next.js, Vite, and Tailwind CSS**  
+- Build responsive and accessible applications with **TypeScript, React, Next.js, Vite, React Native, Tailwind CSS and Modern UI Design Systems**  
 - Collaborate with cross-functional teams to deliver fast, reliable, and maintainable software  
 - Work with tools like **Supabase**, **Firebase**, and **WordPress** for data and content-driven systems  
 
