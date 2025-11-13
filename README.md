@@ -1,5 +1,20 @@
-# 💫 About Me:
-👋 Hey, I'm Kelvin<br><br>I'm not just a developer—I’m a **builder**, a **problem solver**, and a **constant learner**.  <br>Code is my medium, but creativity is my fuel. I love crafting elegant solutions, pushing the boundaries of what's possible, and turning abstract ideas into reality.  <br><br>🔹 **Curiosity-Driven** – I dive deep into tech, always questioning, always exploring.  <br>🔹 **Obsessed with Clean Code** – If it’s not efficient and readable, it’s not done.  <br>🔹 **Builder Mindset** – From software to side projects, I love creating things that matter.  <br><br>When I’m not coding, you’ll probably find me **tinkering with new tech**, **reading up on something mind-blowing**, or **hunting for inspiration in unexpected places**.  <br><br>At the end of the day, I believe in **growth, impact, and leaving things better than I found them**.  <br>If that sounds like you too, we’re already on the same page. 🚀  <br>
+# 👨🏽‍💻 About Me:
+I’m a **Software Engineer** with 3+ years of experience building scalable, user-focused systems across **fintech, edtech, and government platforms**. I love crafting clean, efficient, and intuitive digital experiences that make a real impact.  
+
+💻 **What I do best:**  
+- Build responsive and accessible web applications with **TypeScript, React, Next.js, Vite, and Tailwind CSS**  
+- Collaborate with cross-functional teams to deliver fast, reliable, and maintainable software  
+- Work with tools like **Supabase**, **Firebase**, and **WordPress** for data and content-driven systems  
+
+🚀 **Some things I’ve built:**  
+- **[Cointag](https://cointag.app):** Mobile wallet for instant money transfers  
+- **[Zedi](https://zedi.app):** Crypto-to-fiat platform with admin dashboard  
+- **[DietersFoods](https://dietersfoods.com):** Nutrition-based e-commerce platform  
+- **Ghana Passport Delivery System:** Built at Inpath Technologies, supporting 7000+ successful deliveries  
+
+🌱 Always exploring new technologies, refining UI/UX design systems, and learning how great products are built end-to-end.  
+
+📫 Reach me at **kevskum2002@gmail.com** | [LinkedIn](https://www.linkedin.com/in/kelvin-kumordzi-2276a61ba) | [Portfolio](https://kelvinworld.com)  
 
 
 ## 🌐 Socials:
