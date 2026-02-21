@@ -7,10 +7,11 @@ I’m a **Software Engineer** with 3+ years of experience building scalable, use
 - Work with tools like **Supabase**, **Firebase**, and **WordPress** for data and content-driven systems  
 
 🚀 **Some things I’ve built:**  
-- **[Cointag](https://cointag.app):** Mobile wallet for instant money transfers  
-- **[Zedi](https://zedi.app):** Crypto-to-fiat platform with admin dashboard  
+- **[Wired World](https://wiredworldgh.com):** An e-commerce platform with a client and admin applications to help shop top electronics, home appliances, TVs, audio systems and more
+- **[Zedi](https://zedi.app):** Crypto-to-fiat platform with a client and admin dashboard  
 - **[DietersFoods](https://dietersfoods.com):** Nutrition-based e-commerce platform  
-- **Ghana Passport Delivery System:** Built at Inpath Technologies, supporting 7000+ successful deliveries  
+- **Ghana Passport Delivery System:** Built at Inpath Technologies, supporting 7000+ successful deliveries
+- **[Cointag](https://cointag.app):** Mobile wallet for instant money transfers  
 
 🌱 Always exploring new technologies, refining UI/UX design systems, and learning how great products are built end-to-end.  
 
