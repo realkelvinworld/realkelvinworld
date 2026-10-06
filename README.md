@@ -15,7 +15,7 @@ I’m a **Software Engineer** with 3+ years of experience building scalable, use
 
 🌱 Always exploring new technologies, refining UI/UX design systems, and learning how great products are built end-to-end.  
 
-📫 Reach me at **kevskum2002@gmail.com** | [LinkedIn](https://www.linkedin.com/in/kelvin-kumordzi-2276a61ba) | [Portfolio](https://kelvinworld.com)  
+📫 Reach me at **sk.kumordzi@gmail.com** | [LinkedIn](https://www.linkedin.com/in/kelvin-kumordzi-2276a61ba) | [Portfolio](https://kelvinworld.com)  
 
 
 ## 🌐 Socials:
