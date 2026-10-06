@@ -11,7 +11,7 @@ I’m a **Software Engineer** with 3+ years of experience building scalable, use
 - **[Zedi](https://zedi.app):** Crypto-to-fiat platform with a client and admin dashboard  
 - **[DietersFoods](https://dietersfoods.com):** Nutrition-based e-commerce platform  
 - **Ghana Passport Delivery System:** Built at Inpath Technologies, supporting 7000+ successful deliveries
-- **[Cointag](https://cointag.app):** Mobile wallet for instant money transfers  
+
 
 🌱 Always exploring new technologies, refining UI/UX design systems, and learning how great products are built end-to-end.  
 
